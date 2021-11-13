@@ -1,32 +1,43 @@
-# Tribute Page - "mon - your online plant warehouse"
-====================================================
+<h1 align="center">
+Tribute Page
+</h1>
+<h2 align="center">
+For my favourite plants! 🌱
+</h2>
 
-# Why this subject?
-===================
+## Why this subject?
 
-##
-I love to look after plants, therefore I decided to make a tribute page to some of my favourite types of plant in the form of a brief and largely visual eshop landing page.
+I love to look after plants! My room is a small but growing jungle of various tropical plants, most of which I have grown from gifted cuttings. 
+
+I wanted to steer away from the obvious, so I decided to present a few of my favourite plants on a landing page of “mon” - a pretend e-commerce site. 
+
+## What did I learn?
+
+A lot! 
+
+### GIT
+
+I’m quite a visual person, and I found that playing the "Oh My Git" game has helped me to visualise and become capable with the git commands.
+
+However, I would like to practice a bit more before starting the bootcamp, so have decided to play through this [Git Immersion Game] (https://gitimmersion.com/index.html) the day before the course starts.
+
+### HTML
+
+I have worked my way through all of the Responsive Web Design Certification on FreeCodeCamp twice now, and have managed to retain quite a lot of the information.   The topic that I was most interested in was “Applied Accessibility” - which refers to creating more accessible web content and UI for people with visual, auditory, mobility, or cognitive disabilities. One part that I found particularly worth noting for use in this project was the importance of using semantic elements. For example, to make it easier for a screen reader to navigate the page, you can create landmarks.
+
+### CSS
+
+The CSS part of making this website was probably my favourite, as I had a clear vision for what I wanted to achieve and there appears to be a great satisfaction when one manages to utilise the display property correctly. 
+
+I followed some additional videos on changing style upon hover. This cemented my understanding of the class and id systems, how they can simplify code and make it easier for anyone accessing the code to navigate, and also understanding and playing around with style inheritance. 
 
 
-# What did I learn?
-===================
+## Reflections on the journey so far?
 
-##
-A lot! The main skill that I have acquired is understanding and using git, which was helped greatly by playing the "Oh My Git" game. I'm quite a visual person, so
-seeing it like that has allowed me to now conceptualise where I'm at when just using text with terminal. I'm also now feeling a lot more efficient and confident with it
-and would say that I'm seventy percent convinced that it is quicker than manually doing it with a mouse.
+A lot of fun - and I can’t wait to start the bootcamp!
 
-As well, I followed some additional videos on changing style upon hover. This cemented my understanding of the class and id systems, how they can simplify code by
-reducing the amount of lines necessary and also the importance of understanding inheritance. 
+I did have a brief moment today where I thought I had completely messed up my GitHub repository, and was certain I'd need to ask for help. However, after a short walk outside, I returned and managed to fix things in just a couple of minutes. The issue was with the naming of my html and css files, which needed to be named index and style respectively,
+or else they would not display with GitHub pages.
 
-
-# Reflections on the journey so far?
-====================================
-
-##
-Had a brief moment today where I thought I had completely messed up my github repository and was certain I'd need to ask for help. However, after a short walk outside,
-I returned and managed to fix things in less than two minutes. The issue was with the naming of my html and css files, which needed to be named index and style respectively,
-or else they would not display with github pages.
-
-
+I’m moving onto learning JavaScript now. Thanks for reading! 🧑‍🔬
 
