@@ -4,6 +4,9 @@ Tribute Page
 <h2 align="center">
 For my favourite plants! 🌱
 </h2>
+<h3 align="center">
+[Click me to see the project!](https://schoolofcode.github.io/w0d0_precourse-challenge-adamstory/)
+</h3>
 
 ## Why this subject?
 
@@ -19,7 +22,7 @@ A lot!
 
 I’m quite a visual person, and I found that playing the "Oh My Git" game has helped me to visualise and become capable with the git commands.
 
-However, I would like to practice a bit more before starting the bootcamp, so have decided to play through this [Git Immersion Game] (https://gitimmersion.com/index.html) the day before the course starts.
+However, I would like to practice a bit more before starting the bootcamp, so have decided to play through this [Git Immersion Game](https://gitimmersion.com/index.html) the day before the course starts.
 
 ### HTML
 
