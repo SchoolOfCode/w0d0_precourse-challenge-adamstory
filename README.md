@@ -5,7 +5,7 @@ Tribute Page
 For my favourite plants! 🌱
 </h2>
 <h3 align="center">
-[Click me to see the project!](https://schoolofcode.github.io/w0d0_precourse-challenge-adamstory/)
+(https://schoolofcode.github.io/w0d0_precourse-challenge-adamstory/)
 </h3>
 
 ## Why this subject?
